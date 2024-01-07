@@ -1,2 +1,2 @@
 # Bubble-Trouble-Game
-c++ programing
+c++ programming
